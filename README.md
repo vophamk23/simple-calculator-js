@@ -64,7 +64,7 @@ simple-calculator-js/
 
 <p align="center">
   🔗 <b>Live Demo:</b>
-  <a href="http://127.0.0.1:5500/index.html">GitHub Pages Link</a>
+  <a href="https://vophamk23.github.io/simple-calculator-js/">https://vophamk23.github.io/simple-calculator-js/</a>
 </p>
 
 ## 🎯 Project Goals
