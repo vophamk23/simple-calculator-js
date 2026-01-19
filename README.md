@@ -54,14 +54,18 @@ simple-calculator-js/
 
 3. Open `index.html` in your web browser
 
-✅ **No additional libraries required**
-
 ## 🖥️ Demo
 
 <!-- Add a screenshot or GIF here -->
-<!-- <img src="images/demo.png" width="400" alt="Calculator Demo"> -->
 
-🔗 **Live Demo:** [GitHub Pages Link](https://USERNAME.github.io/simple-calculator-js/)
+<p align="center">
+  <img src="simple-calculator-js.png" width="300" alt="Calculator Demo">
+</p>
+
+<p align="center">
+  🔗 <b>Live Demo:</b>
+  <a href="https://vophamk23.github.io/simple-calculator-js/">https://vophamk23.github.io/simple-calculator-js/</a>
+</p>
 
 ## 🎯 Project Goals
 
@@ -74,12 +78,6 @@ simple-calculator-js/
 
 **Name:** Vo Pham  
 **Major:** Information Technology / Computer Engineering  
-**GitHub:** [https://github.com/USERNAME](https://github.com/USERNAME)
+**GitHub:** [https://github.com/vophamk23](https://github.com/vophamk23)
 
-## 📜 License
 
-This project is created for educational purposes only.
-
-## ⭐ Show your support
-
-Give a ⭐️ if you like this project!
