@@ -54,8 +54,6 @@ simple-calculator-js/
 
 3. Open `index.html` in your web browser
 
-✅ **No additional libraries required**
-
 ## 🖥️ Demo
 
 <!-- Add a screenshot or GIF here -->
