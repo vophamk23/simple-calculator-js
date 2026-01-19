@@ -59,7 +59,7 @@ simple-calculator-js/
 ## 🖥️ Demo
 
 <!-- Add a screenshot or GIF here -->
-<!-- <img src="images/demo.png" width="400" alt="Calculator Demo"> -->
+<img src="simple-calculator-js.png" width="400" alt="Calculator Demo"> 
 
 🔗 **Live Demo:** [GitHub Pages Link](http://127.0.0.1:5500/index.html)
 
@@ -74,7 +74,7 @@ simple-calculator-js/
 
 **Name:** Vo Pham  
 **Major:** Information Technology / Computer Engineering  
-**GitHub:** [https://github.com/USERNAME](https://github.com/USERNAME)
+**GitHub:** [https://github.com/vophamk23](https://github.com/vophamk23)
 
 ## 📜 License
 
