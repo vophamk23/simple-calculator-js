@@ -58,9 +58,9 @@ simple-calculator-js/
 
 <!-- Add a screenshot or GIF here -->
 
-<p align="center">
+<!-- <p align="center">
   <img src="simple-calculator-js.png" width="300" alt="Calculator Demo">
-</p>
+</p> -->
 
 <p align="center">
   🔗 <b>Live Demo:</b>
