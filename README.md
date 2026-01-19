@@ -59,9 +59,15 @@ simple-calculator-js/
 ## 🖥️ Demo
 
 <!-- Add a screenshot or GIF here -->
-<img src="simple-calculator-js.png" width="400" alt="Calculator Demo"> 
 
-🔗 **Live Demo:** [GitHub Pages Link](http://127.0.0.1:5500/index.html)
+<p align="center">
+  <img src="simple-calculator-js.png" width="300" alt="Calculator Demo">
+</p>
+
+<p align="center">
+  🔗 <b>Live Demo:</b>
+  <a href="https://USERNAME.github.io/simple-calculator-js/">GitHub Pages Link</a>
+</p>
 
 ## 🎯 Project Goals
 
@@ -76,10 +82,4 @@ simple-calculator-js/
 **Major:** Information Technology / Computer Engineering  
 **GitHub:** [https://github.com/vophamk23](https://github.com/vophamk23)
 
-## 📜 License
 
-This project is created for educational purposes only.
-
-## ⭐ Show your support
-
-Give a ⭐️ if you like this project!
