@@ -61,7 +61,7 @@ simple-calculator-js/
 <!-- Add a screenshot or GIF here -->
 <!-- <img src="images/demo.png" width="400" alt="Calculator Demo"> -->
 
-🔗 **Live Demo:** [GitHub Pages Link](https://USERNAME.github.io/simple-calculator-js/)
+🔗 **Live Demo:** [GitHub Pages Link](http://127.0.0.1:5500/index.html)
 
 ## 🎯 Project Goals
 
