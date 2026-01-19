@@ -58,9 +58,11 @@ simple-calculator-js/
 
 <!-- Add a screenshot or GIF here -->
 
- <p align="center">
-  <img src="simple-calculator-js.png" width="300" alt="Calculator Demo">
-</p> 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/vophamk23/simple-calculator-js/main/simple-calculator-js.png"
+       width="300"
+       alt="Calculator Demo">
+</p>
 
 <p align="center">
   🔗 <b>Live Demo:</b>
